@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Rajesh Sahu</h1>
+<h1 align="center">Hi 👋, I'm Rajesh Kumar Sahu</h1>
 <h3 align="center">A passionate developer from India</h3>
+
 
 
 - 🔭 I’m currently working at **Infosys Limited**
@@ -13,6 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/rajesh-sahu4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rajesh-sahu4/" height="30" width="40" /></a>
+<a href="https://hashnode.com/https://hashnode.com/@rajesh-4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://hashnode.com/@rajesh-4" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/u/rajeshsahu-4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/rajeshsahu-4/" height="30" width="40" /></a>
 </p>
 
