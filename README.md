@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working at **Infosys Limited**
 
-- 🌱 I’m currently learning **DSA, React, Mongodb,**
+- 🌱 I’m currently learning **DSA,Mongodb,**
 
 - 💬 Ask me about **Python, Django, MySQL**
 
